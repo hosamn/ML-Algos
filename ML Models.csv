@@ -1,0 +1,9 @@
+Supervised learning,Unsupervised learning,Reinforcement learning,Deep Learning
+XGBoost,Clustering,Model Free RL-TRPO-PPO-A3C,CNN
+Linear Regression,K-Means,PG,NN
+Logistic Regression,Hierarchical clustering,Q-learning -DQN,RNN
+SVM,Fuzzy C-Means,QR-DQN,LSTM
+Desicion Trees,PCA,C51,R-CNN
+Random Forests,SVD,HER,GANS
+LightGBM,ICA,Model Based RL,Faster-RCNN
+KNN,,,Cyclic-GANS
